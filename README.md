@@ -11,7 +11,7 @@
 
 ## 🎨 GIF Legal de Código
 
-![GIF de código legal](https://github.com/jlucasveloso/jlucasveloso/blob/main/matrix-code-animation-gif-free-animated-background-716.gif?raw=true)
+<img src="https://github.com/jlucasveloso/jlucasveloso/blob/main/matrix-code-animation-gif-free-animated-background-716.gif?raw=true" width="300" />
 
 ---
 
