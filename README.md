@@ -2,10 +2,10 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 48%;">
-    ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&rank_icon=github)
+    ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jlucasveloso&show_icons=true&theme=dark&rank_icon=github)
   </div>
   <div style="width: 48%;">
-    ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=6&theme=dark)
+    ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasveloso&layout=compact&langs_count=6&theme=dark)
   </div>
 </div>
 
