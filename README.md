@@ -3,10 +3,10 @@
 
 
 ## 🔥 Estatísticas do GitHub  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jlucasveloso&show_icons=true&theme=radical&rank_icon=github)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jlucasveloso&show_icons=true&theme=dark&rank_icon=github)
 
 ## 📊 Linguagens Mais Usadas  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasveloso&layout=compact&langs_count=6&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasveloso&layout=compact&langs_count=6&theme=dark)
 
 ---
 
