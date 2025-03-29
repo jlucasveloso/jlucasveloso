@@ -1,13 +1,7 @@
 ## 🔥 Estatísticas do GitHub e Linguagens Mais Usadas
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="width: 48%; margin-bottom: 20px;">
-    ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jlucasveloso&show_icons=true&theme=dark&rank_icon=github)
-  </div>
-  <div style="width: 48%; margin-bottom: 20px;">
-    ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasveloso&layout=compact&langs_count=6&theme=dark)
-  </div>
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jlucasveloso&show_icons=true&theme=dark&rank_icon=github)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasveloso&layout=compact&langs_count=6&theme=dark)
 
 ## 🎨 GIF Legal de Código
 
