@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**jlucasveloso/jlucasveloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔥 Estatísticas do GitHub  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jlucasveloso&show_icons=true&theme=radical&rank_icon=github)
+
+## 📊 Linguagens Mais Usadas  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasveloso&layout=compact&langs_count=6&theme=radical)
+
+---
+
+Seja bem-vindo! Sinta-se à vontade para explorar meus projetos e contribuir! 😃🚀
