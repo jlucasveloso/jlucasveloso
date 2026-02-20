@@ -1,5 +1,6 @@
 
-
----
-
-Seja bem-vindo! Sinta-se à vontade para explorar meus projetos e contribuir! 😃🚀
+## 👋 Hello, Welcome to my profile!
+Feel free to explore my projects and contribute!
+Brazil 🇧🇷🌎
+----------
+💻 Learning. Building. Improving.
